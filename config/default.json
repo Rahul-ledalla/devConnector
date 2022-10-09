@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://naruto:happyuchiha@cluster0.1wma2.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "hydrogen"
+}
